@@ -11,9 +11,12 @@ A discord bot that will watch a specified discord channel for new spotify links 
 DISCORD_TOKEN=kjawe<blahblah>;anwet
 ```
 # .env
-DISCORD_TOKEN=asdfasdfasdfasdfasdfasdf
+DISCORD_TOKEN='asdfasdfasdfasdfasdfasdf'
+
 SPOTIPY_CLIENT_ID='asdfasdfasdfasdfasdf'
+
 SPOTIPY_CLIENT_SECRET='asdfasdfasdfasdf'
+
 SPOTIPY_USERNAME='spotify_username'
 
 ```
